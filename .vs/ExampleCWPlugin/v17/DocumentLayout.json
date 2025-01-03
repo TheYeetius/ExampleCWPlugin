@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Steam install\\steamapps\\common\\Content Warning\\Content Warning_Data\\Plugins\\x86_64\\ExampleCWPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4640080-28D3-4545-9560-924950B00215}|CWMapSelectionPlugin.csproj|t:\\steam install\\steamapps\\common\\content warning\\content warning_data\\plugins\\x86_64\\examplecwplugin\\cwmapselectionplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4640080-28D3-4545-9560-924950B00215}|CWMapSelectionPlugin.csproj|solutionrelative:cwmapselectionplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4640080-28D3-4545-9560-924950B00215}|CWMapSelectionPlugin.csproj|t:\\steam install\\steamapps\\common\\content warning\\content warning_data\\plugins\\x86_64\\examplecwplugin\\examplecwplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4640080-28D3-4545-9560-924950B00215}|CWMapSelectionPlugin.csproj|solutionrelative:examplecwplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4640080-28D3-4545-9560-924950B00215}|CWMapSelectionPlugin.csproj|t:\\steam install\\steamapps\\common\\content warning\\content warning_data\\plugins\\x86_64\\examplecwplugin\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E4640080-28D3-4545-9560-924950B00215}|CWMapSelectionPlugin.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "T:\\Steam install\\steamapps\\common\\Content Warning\\Content Warning_Data\\Plugins\\x86_64\\ExampleCWPlugin\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "T:\\Steam install\\steamapps\\common\\Content Warning\\Content Warning_Data\\Plugins\\x86_64\\ExampleCWPlugin\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-03T14:35:42.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExampleCWPlugin.cs",
+              "DocumentMoniker": "T:\\Steam install\\steamapps\\common\\Content Warning\\Content Warning_Data\\Plugins\\x86_64\\ExampleCWPlugin\\ExampleCWPlugin.cs",
+              "RelativeDocumentMoniker": "ExampleCWPlugin.cs",
+              "ToolTip": "T:\\Steam install\\steamapps\\common\\Content Warning\\Content Warning_Data\\Plugins\\x86_64\\ExampleCWPlugin\\ExampleCWPlugin.cs",
+              "RelativeToolTip": "ExampleCWPlugin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:12:29.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleCWPlugin",
+              "DocumentMoniker": "T:\\Steam install\\steamapps\\common\\Content Warning\\Content Warning_Data\\Plugins\\x86_64\\ExampleCWPlugin\\CWMapSelectionPlugin.csproj",
+              "RelativeDocumentMoniker": "CWMapSelectionPlugin.csproj",
+              "ToolTip": "T:\\Steam install\\steamapps\\common\\Content Warning\\Content Warning_Data\\Plugins\\x86_64\\ExampleCWPlugin\\CWMapSelectionPlugin.csproj",
+              "RelativeToolTip": "CWMapSelectionPlugin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T14:00:18.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
