@@ -19,9 +19,9 @@
     <!-- Use BepInEx's Assembly Publicizer to tell the compiler & IDE that every field, method, etc. is public, in the game assemblies. -->
     <!-- This makes it easier to change fields and call methods that would otherwise be private. -->
     <ItemGroup>
-	    <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all"/>
+	    <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
 	    <PackageReference Include="BepInEx.Core" Version="5.*" />
-	    <PackageReference Include="BepInEx.PluginInfoProps" Version="1.*"/>
+	    <PackageReference Include="BepInEx.PluginInfoProps" Version="1.*" />
         <PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" Version="0.4.2">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -29,7 +29,7 @@
     </ItemGroup>
 
 	<ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
-		<PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all"/>
+		<PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all" />
 	</ItemGroup>
 
 	<Target Name="CopyOutputFileToGame" AfterTargets="Build">
